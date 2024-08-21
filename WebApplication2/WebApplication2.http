@@ -1,0 +1,6 @@
+@WebApplication2_HostAddress = http://localhost:5062
+
+GET {{ApiAula_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

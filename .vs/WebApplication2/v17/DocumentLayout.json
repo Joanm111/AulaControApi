@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joan\\source\\repos\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D95B110-9454-4BD7-9E86-E83A7CB1925C}|WebApplication2\\WebApplication2.csproj|c:\\users\\joan\\source\\repos\\webapplication2\\webapplication2\\controllers\\asistenciumscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D95B110-9454-4BD7-9E86-E83A7CB1925C}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\asistenciumscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D95B110-9454-4BD7-9E86-E83A7CB1925C}|WebApplication2\\WebApplication2.csproj|c:\\users\\joan\\source\\repos\\webapplication2\\webapplication2\\controllers\\chatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D95B110-9454-4BD7-9E86-E83A7CB1925C}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\chatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D95B110-9454-4BD7-9E86-E83A7CB1925C}|WebApplication2\\WebApplication2.csproj|c:\\users\\joan\\source\\repos\\webapplication2\\webapplication2\\controllers\\comentarioforoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D95B110-9454-4BD7-9E86-E83A7CB1925C}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\comentarioforoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D95B110-9454-4BD7-9E86-E83A7CB1925C}|WebApplication2\\WebApplication2.csproj|c:\\users\\joan\\source\\repos\\webapplication2\\webapplication2\\controllers\\foroescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D95B110-9454-4BD7-9E86-E83A7CB1925C}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\foroescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D95B110-9454-4BD7-9E86-E83A7CB1925C}|WebApplication2\\WebApplication2.csproj|c:\\users\\joan\\source\\repos\\webapplication2\\webapplication2\\controllers\\mensajechatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D95B110-9454-4BD7-9E86-E83A7CB1925C}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\mensajechatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D95B110-9454-4BD7-9E86-E83A7CB1925C}|WebApplication2\\WebApplication2.csproj|c:\\users\\joan\\source\\repos\\webapplication2\\webapplication2\\controllers\\notificacionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D95B110-9454-4BD7-9E86-E83A7CB1925C}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\notificacionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D95B110-9454-4BD7-9E86-E83A7CB1925C}|WebApplication2\\WebApplication2.csproj|c:\\users\\joan\\source\\repos\\webapplication2\\webapplication2\\controllers\\padrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D95B110-9454-4BD7-9E86-E83A7CB1925C}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\padrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D95B110-9454-4BD7-9E86-E83A7CB1925C}|WebApplication2\\WebApplication2.csproj|c:\\users\\joan\\source\\repos\\webapplication2\\webapplication2\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D95B110-9454-4BD7-9E86-E83A7CB1925C}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D95B110-9454-4BD7-9E86-E83A7CB1925C}|WebApplication2\\WebApplication2.csproj|c:\\users\\joan\\source\\repos\\webapplication2\\webapplication2\\models\\aulacontrolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D95B110-9454-4BD7-9E86-E83A7CB1925C}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\aulacontrolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ForoesController.cs",
+              "DocumentMoniker": "C:\\Users\\joan\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\ForoesController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\ForoesController.cs",
+              "ToolTip": "C:\\Users\\joan\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\ForoesController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\ForoesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T19:20:35.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatsController.cs",
+              "DocumentMoniker": "C:\\Users\\joan\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\ChatsController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\ChatsController.cs",
+              "ToolTip": "C:\\Users\\joan\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\ChatsController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\ChatsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T19:03:51.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComentarioForoesController.cs",
+              "DocumentMoniker": "C:\\Users\\joan\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\ComentarioForoesController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\ComentarioForoesController.cs",
+              "ToolTip": "C:\\Users\\joan\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\ComentarioForoesController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\ComentarioForoesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T19:23:58.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AsistenciumsController.cs",
+              "DocumentMoniker": "C:\\Users\\joan\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\AsistenciumsController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\AsistenciumsController.cs",
+              "ToolTip": "C:\\Users\\joan\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\AsistenciumsController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\AsistenciumsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T16:38:29.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MensajeChatsController.cs",
+              "DocumentMoniker": "C:\\Users\\joan\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\MensajeChatsController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\MensajeChatsController.cs",
+              "ToolTip": "C:\\Users\\joan\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\MensajeChatsController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\MensajeChatsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T19:24:13.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotificacionsController.cs",
+              "DocumentMoniker": "C:\\Users\\joan\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\NotificacionsController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\NotificacionsController.cs",
+              "ToolTip": "C:\\Users\\joan\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\NotificacionsController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\NotificacionsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T19:23:23.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PadresController.cs",
+              "DocumentMoniker": "C:\\Users\\joan\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\PadresController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\PadresController.cs",
+              "ToolTip": "C:\\Users\\joan\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\PadresController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\PadresController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T21:52:19.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\joan\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\joan\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T21:53:55.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AulaControlContext.cs",
+              "DocumentMoniker": "C:\\Users\\joan\\source\\repos\\WebApplication2\\WebApplication2\\Models\\AulaControlContext.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\AulaControlContext.cs",
+              "ToolTip": "C:\\Users\\joan\\source\\repos\\WebApplication2\\WebApplication2\\Models\\AulaControlContext.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\AulaControlContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T22:52:02.547Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
